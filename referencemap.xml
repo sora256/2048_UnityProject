@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCollectionData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CollectionData>
+    <fileGuid>842f43ac94b4b4f72ac0898650ddcc44</fileGuid>
+    <referenceGids />
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid>805140a4856714e288ea84985d3023df</fileGuid>
+    <referenceGids />
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid>202c278a17939b24c8b79c0ee1f94d8f</fileGuid>
+    <referenceGids />
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid>0d05386265df34bac8d0b6df44aa494c</fileGuid>
+    <referenceGids />
+    <timeStamp>2017-03-17T05:44:11+09:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid>74eec3bfba0594259ac2843353c082a3</fileGuid>
+    <referenceGids />
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid>2c4f01a79a77a45a9a84004cc2b78098</fileGuid>
+    <referenceGids />
+    <timeStamp>2017-03-17T05:41:26+09:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid>20e17c737aa034c1686df88e2886f0db</fileGuid>
+    <referenceGids />
+    <timeStamp>2021-10-27T09:24:29+09:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid />
+    <referenceGids />
+    <timeStamp>0001-01-01T00:00:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid>9bfb33489c62d41988909c4b221020b0</fileGuid>
+    <referenceGids>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+    </referenceGids>
+    <timeStamp>2021-10-27T09:29:03+09:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid>6899dd89f477d43c9bfff3439d7b44ae</fileGuid>
+    <referenceGids>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+    </referenceGids>
+    <timeStamp>2021-10-27T09:29:03+09:00</timeStamp>
+  </CollectionData>
+  <CollectionData>
+    <fileGuid>2cda990e2423bbf4892e6590ba056729</fileGuid>
+    <referenceGids>
+      <string>0cd44c1031e13a943bb63640046fad76</string>
+      <string>5f7201a12d95ffc409449d95f23cf332</string>
+      <string>fe87c0e1cc204ed48ad3b37840f39efc</string>
+      <string>20e17c737aa034c1686df88e2886f0db</string>
+      <string>76c392e42b5098c458856cdf6ecaaaa1</string>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>4e29b1a8efbd4b44bb3f3716e73f07ff</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>dc42784cf147c0c48a680349fa168899</string>
+      <string>2cda990e2423bbf4892e6590ba056729</string>
+      <string>4f231c4fb786f3946a6b90b886c48677</string>
+      <string>0cd44c1031e13a943bb63640046fad76</string>
+      <string>5f7201a12d95ffc409449d95f23cf332</string>
+      <string>fe87c0e1cc204ed48ad3b37840f39efc</string>
+      <string>20e17c737aa034c1686df88e2886f0db</string>
+      <string>76c392e42b5098c458856cdf6ecaaaa1</string>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>4e29b1a8efbd4b44bb3f3716e73f07ff</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>dc42784cf147c0c48a680349fa168899</string>
+      <string>2cda990e2423bbf4892e6590ba056729</string>
+      <string>4f231c4fb786f3946a6b90b886c48677</string>
+      <string>0cd44c1031e13a943bb63640046fad76</string>
+      <string>5f7201a12d95ffc409449d95f23cf332</string>
+      <string>fe87c0e1cc204ed48ad3b37840f39efc</string>
+      <string>20e17c737aa034c1686df88e2886f0db</string>
+      <string>76c392e42b5098c458856cdf6ecaaaa1</string>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>4e29b1a8efbd4b44bb3f3716e73f07ff</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>dc42784cf147c0c48a680349fa168899</string>
+      <string>2cda990e2423bbf4892e6590ba056729</string>
+      <string>4f231c4fb786f3946a6b90b886c48677</string>
+      <string>0cd44c1031e13a943bb63640046fad76</string>
+      <string>5f7201a12d95ffc409449d95f23cf332</string>
+      <string>fe87c0e1cc204ed48ad3b37840f39efc</string>
+      <string>20e17c737aa034c1686df88e2886f0db</string>
+      <string>76c392e42b5098c458856cdf6ecaaaa1</string>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>4e29b1a8efbd4b44bb3f3716e73f07ff</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>dc42784cf147c0c48a680349fa168899</string>
+      <string>2cda990e2423bbf4892e6590ba056729</string>
+      <string>4f231c4fb786f3946a6b90b886c48677</string>
+      <string>0cd44c1031e13a943bb63640046fad76</string>
+      <string>5f7201a12d95ffc409449d95f23cf332</string>
+      <string>fe87c0e1cc204ed48ad3b37840f39efc</string>
+      <string>20e17c737aa034c1686df88e2886f0db</string>
+      <string>76c392e42b5098c458856cdf6ecaaaa1</string>
+      <string>9bfb33489c62d41988909c4b221020b0</string>
+      <string>4e29b1a8efbd4b44bb3f3716e73f07ff</string>
+      <string>6899dd89f477d43c9bfff3439d7b44ae</string>
+      <string>dc42784cf147c0c48a680349fa168899</string>
+      <string>2cda990e2423bbf4892e6590ba056729</string>
+      <string>4f231c4fb786f3946a6b90b886c48677</string>
+    </referenceGids>
+    <timeStamp>2021-10-27T09:46:16+09:00</timeStamp>
+  </CollectionData>
+</ArrayOfCollectionData>
